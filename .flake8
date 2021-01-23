@@ -1,0 +1,5 @@
+[flake8]
+complexity = 10
+lazy = false
+max-line-length = 80
+strict = true
